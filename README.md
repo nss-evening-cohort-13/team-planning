@@ -1,6 +1,6 @@
 # Team Planning
 
-## README Requirments
+## README Requirements
 - Name of the Project
 - Overview of the project
 - Link to your wireframes/prototype
